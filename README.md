@@ -56,7 +56,7 @@ Once the application runs, it will generate an index.html file in the "dist" fol
 
 Click the image below for a video demonstration of the application and the generated index.html file at the end:
 
-[![Team Profile Generator Demo](./assets/images/demoscreenshot.jpg?raw=true)](https://watch.screencastify.com/v/zgkEgYB0OWzKTVXJ4VsD)
+[![Team Profile Generator Demo](./assets/images/demoscreenshot.jpg?raw=true)](https://watch.screencastify.com/v/Cco4xiVKzBhhTqPgKFor)
 
 
 Click the image below for a video demonstration of the tests passing:
