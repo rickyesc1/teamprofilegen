@@ -61,7 +61,7 @@ Click the image below for a video demonstration of the application and the gener
 
 Click the image below for a video demonstration of the tests passing:
 
-[![Team Profile Test Passing Demo](./assets/images/demovideo.jpg?raw=true)])
+[![Team Profile Test Passing Demo](./assets/images/testpass.jpeg?raw=true)])
 
 ## Deployed application link
 
@@ -79,7 +79,7 @@ What the command line interface looks like:
 
 What the tests passing looks like:
 
-![Team Profile Generator Tests Command Line](./assets/images/testpassing.jpg?raw=true) <br /> 
+![Team Profile Generator Tests Command Line](./assets/images/testpass.jpeg?raw=true) <br /> 
 
 What the index.html file looks like once complete:
 
