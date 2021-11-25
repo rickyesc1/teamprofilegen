@@ -75,7 +75,7 @@ JavaScript, Bootstrap, Google Fonts, Material Icons, HTML, Node, Inquirer, Jest 
 
 What the command line interface looks like:
 
-![Team Profile Generator Command Line](./assets/images/screenshot.jpg?raw=true) <br /> 
+![Team Profile Generator Command Line](./assets/images/commandline.JPG?raw=true) <br /> 
 
 What the tests passing looks like:
 
@@ -83,7 +83,7 @@ What the tests passing looks like:
 
 What the index.html file looks like once complete:
 
-![Sample Index.HTML](./assets/images/screenshot2.jpg?raw=true) <br /> 
+![Sample Index.HTML](./assets/images/screenshot2.JPG?raw=true) <br /> 
 
 ## License
 
