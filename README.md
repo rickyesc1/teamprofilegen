@@ -1,6 +1,6 @@
 # Team Profile Generator  <br />
 
-Command line app to make profiles for your team members on an html page. 
+A Command Line Interface app built in JavaScript with the key to the app being that it uses Node/jest to run tests (tests that were written prior to the app being written). The function of the app is to create an html page with team member profiles based off of user responses to prompts.
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) <br />
 
@@ -23,13 +23,18 @@ Command line app to make profiles for your team members on an html page.
 
 ## Description
 
-A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. <br />
+A Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person. 
+
+The motivation is to showcase the skills that we are learning in our bootcamp, all of these concepts can be applied to real-woprld situations and if I decide to pursue a career immersed in this industry, these are fundamental ideas. Of course, I am strongly motivated by wanting a good grade. <br />
 
 ## Installation
+
 To install all the dependencies, use the command below:
 ```
 npm i
 ```
+See below for installation and how to run the tests and application on your own.
+
 <br />
 
 ## Usage
@@ -50,7 +55,9 @@ When you're ready to run the application, from the root folder, type the below i
 node index
 ```
 
-Once the application runs, it will generate an index.html file in the "dist" folder. If you already have an index.html file in that folder, it will first prompt you to overwrite it or not.
+Once the application is finished (the user has answered all the prompts and no longer wishes to continue adding team members), it will generate an index.html file in the "dist" folder. If you already have an index.html file in that folder (everyone will if they clone from my repository), the first prompt you will receive from the app is whether you want to overwrite it or not.
+
+Answer yes, and then follow the prompts until you no longer have team members to add. When the html file is generated, you can use your text-editor to navigate to the html file and open it in your default browser.
 
 ## Demo
 
@@ -91,7 +98,7 @@ What the index.html file looks like once complete:
   
 ## Contributing
 
-If you'd like to contact me, feel free to reach out using the Questions section below. This was a module 10 homework assignment for the UofT Coding Bootcamp.<br />
+If you'd like to contact me, feel free to reach out using the Questions section below. This was a module 10 homework assignment for the ucsd Coding Bootcamp.<br />
 
 ## Tests
 
